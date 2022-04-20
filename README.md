@@ -2,6 +2,9 @@
 
 A railway signal is a visual display device that conveys instructions or provides warning of instructions regarding the driver’s authority to proceed. The driver interprets the signal's indication and acts accordingly. Typically, a signal might inform the driver of the speed at which the train may safely proceed or it may instruct the driver to stop.
 
+[![Analysis](https://github.com/Sreenivas0706/M2_Embeded/actions/workflows/c-cp.yml/badge.svg)](https://github.com/Sreenivas0706/M2_Embeded/actions/workflows/c-cp.yml)
+
+___________________________________________________________________________________________
 # Project2 M2_Embedded Printing The Natural numbers
 * github link: "https://github.com/Sreenivas0706/M2_Embedded_Naturalnumbers.git"
 * Aim: In this project we are able to print the natural from 1 to 9 numbers using the keypad this project will be helps in mobile phone applications like a calling keypad.
