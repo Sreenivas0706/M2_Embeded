@@ -5,6 +5,8 @@ A railway signal is a visual display device that conveys instructions or provide
 [![Analysis](https://github.com/Sreenivas0706/M2_Embeded/actions/workflows/c-cp.yml/badge.svg)](https://github.com/Sreenivas0706/M2_Embeded/actions/workflows/c-cp.yml)
 [![Build CI - Lunix](https://github.com/Sreenivas0706/M2_Embeded/actions/workflows/c-c.yml/badge.svg)](https://github.com/Sreenivas0706/M2_Embeded/actions/workflows/c-c.yml)
 [![cppcheck](https://github.com/Sreenivas0706/M2_Embeded/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sreenivas0706/M2_Embeded/actions/workflows/c-cpp.yml)
+![codeQualityscore](https://api.codiga.io/project/32891/score/svg)
+![codeQuualitystatus](https://api.codiga.io/project/32891/status/svg)
 ___________________________________________________________________________________________
 # Project2 M2_Embedded Printing The Natural numbers
 * github link: "https://github.com/Sreenivas0706/M2_Embedded_Naturalnumbers.git"
